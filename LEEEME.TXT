@@ -1,0 +1,13 @@
+Ping Pong echo por Cassy Umr
+
+Utilize python y pygame para llevarlo acabo, es bastante basico
+pero tambien es divertido
+
+Los controles son:
+P1:
+Flecha arriba = Sube
+Fecha abajo = Baja
+
+P2:
+W = Sube
+S = Baja
